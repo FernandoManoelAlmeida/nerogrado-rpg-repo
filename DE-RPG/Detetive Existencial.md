@@ -867,7 +867,7 @@ Este glossário serve como referência rápida para todos os termos mecânicos e
 
 ---
 
-**Versão do Sistema:** 1.1
+**Versão do Sistema:** 1.0
 **Baseado em:** Disco Elysium (ZA/UM)  
 **Adaptado para:** RPG de Mesa Narrativo  
 **Licença:** Uso não-comercial, fan-work

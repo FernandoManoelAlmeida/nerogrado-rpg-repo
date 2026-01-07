@@ -6,16 +6,45 @@
       {
         "id": "cbfe1e7355986b99",
         "type": "tabs",
+        "dimension": 72.33502538071066,
         "children": [
           {
             "id": "ec00656948f196f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DE-RPG/Detetive Existencial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
-            }
+              "title": "Detetive Existencial"
+            },
+            "group": "15602a22ea955e61"
+          }
+        ]
+      },
+      {
+        "id": "8d01c2ebdc1d0032",
+        "type": "tabs",
+        "dimension": 27.66497461928934,
+        "children": [
+          {
+            "id": "f5434d5d33e42d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DE-RPG/Detetive Existencial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Detetive Existencial"
+            },
+            "group": "15602a22ea955e61"
           }
         ]
       }
@@ -174,13 +203,15 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "omnisearch:Omnisearch": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "cf00e00f184984b1",
+  "active": "f5434d5d33e42d2b",
   "lastOpenFiles": [
-    "Sem título 1.base",
     "Sem título.base",
+    "Sem título 1.base",
     "Bem-vindo.md"
   ]
 }
